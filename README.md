@@ -1,2 +1,0 @@
-# first.php
-Puthon Code
